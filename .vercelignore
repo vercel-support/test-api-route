@@ -1,0 +1,4 @@
+!landing/
+!landing/**
+landing/node_modules/
+landing/.vercel/
